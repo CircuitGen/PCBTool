@@ -9,10 +9,12 @@
 - 指导老师：李锡涵
 - 团队成员：张振尧 王海翔 白乐航 范瑶 何佳蕊
 - 团队照片：![alt text](src/img1.jpg)
-- 项目上传地址：<https://github.com/CircuitGen/PCBTool>
 - NVDC登录端口：36.150.110.74:9936
 
-## PCBTool.ai 项目概述
+- 项目上传地址：<https://github.com/CircuitGen/PCBTool>
+- 项目介绍视频地址：<https://github.com/CircuitGen/PCBTool>
+
+## PCBTool.AI
 
 ### 《硬件开发的“iPhone时刻”：AI一键生成电路，突破硬件开发不可能的“达芬奇密码”》
 

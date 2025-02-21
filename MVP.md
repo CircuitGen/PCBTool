@@ -12,7 +12,7 @@
 - NVDC登录端口：36.150.110.74:9936
 
 - 项目上传地址：<https://github.com/CircuitGen/PCBTool>
-- 项目介绍视频地址：<https://github.com/CircuitGen/PCBTool>
+- 项目介绍视频地址：<https://github.com/CircuitGen/PCBTool/blob/main/video.mp4>
 
 ## PCBTool.AI
 

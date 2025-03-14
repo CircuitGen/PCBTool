@@ -8,10 +8,7 @@
 - 参赛队名： MVP
 - 指导老师：李锡涵
 - 团队成员：张振尧 王海翔 白乐航 范瑶 何佳蕊
-- 团队照片：![alt text](src/img1.jpg)
-- NVDC登录端口：36.150.110.74:9936
 
-- 项目上传地址：<https://github.com/CircuitGen/PCBTool>
 - 项目介绍视频地址：<https://github.com/CircuitGen/PCBTool/blob/main/video.mp4>
 
 ## PCBTool.AI
